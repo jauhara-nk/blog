@@ -1,0 +1,179 @@
+/* 
+
+
+.app {
+  text-align: center;
+}
+
+.app-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+nav {
+  margin-top: 10px;
+}
+
+nav a {
+  margin: 0 10px;
+  color: white;
+  text-decoration: none;
+}
+
+nav .active-link {
+  font-weight: bold;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+.section {
+  border: 1px solid #ccc;
+  padding: 20px;
+  width: 60%;
+  background-color: #f9f9f9;
+}
+
+.section h2 {
+  color: #333;
+}
+
+.section {
+  border: 1px solid #ccc;
+  padding: 20px;
+  width: 60%;
+  background-color: #f9f9f9;
+}
+
+.section h2 {
+  color: #333;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+.app {
+  text-align: center;
+}
+
+.app-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+nav {
+  margin-top: 10px;
+}
+
+nav a {
+  margin: 0 10px;
+  color: white;
+  text-decoration: none;
+}
+
+nav .active-link {
+  font-weight: bold;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+
+.section {
+  border: 1px solid #ccc;
+  padding: 20px;
+  width: 60%;
+  background-color: #f9f9f9;
+}
+
+.section {
+  border: 1px solid #ccc;
+  padding: 20px;
+  width: 60%;
+  background-color: #f9f9f9;
+}
+
+.section h2 {
+  color: #333;
+}
+
+.disease-preview {
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin-bottom: 20px;
+  background-color: #fff;
+}
+
+.disease-preview h3 {
+  color: #555;
+}
+
+.disease-preview p {
+  margin: 10px 0;
+}
+
+.disease-preview a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.disease-preview a:hover {
+  text-decoration: underline;
+}
+
+
+.section {
+  border: 1px solid #ccc;
+  padding: 20px;
+  width: 60%;
+  background-color: #f9f9f9;
+}
+
+.section h2 {
+  color: #333;
+}
+
+.article {
+  margin-bottom: 20px;
+}
+
+.article h3 {
+  color: #555;
+}
+
+.article p {
+  margin: 5px 0;
+}
+
+
+.disease-detail {
+  border: 1px solid #ccc;
+  padding: 20px;
+  width: 60%;
+  background-color: #f9f9f9;
+  margin: 0 auto;
+}
+
+.disease-detail h2 {
+  color: #333;
+}
+
+.disease-detail p {
+  margin: 10px 0;
+}
